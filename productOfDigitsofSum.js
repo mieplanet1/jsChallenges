@@ -10,6 +10,6 @@ while(firstSum >9 ){
 }
  
 console.log(firstSum)
-  //  args. s
+  //  args.
 }
 productOfDigitsofSum(1, 2, 3, 4, 5, 6)
